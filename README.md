@@ -1,12 +1,16 @@
-# Hi, I'm Sudarshan Patil 👋
+<div align="center">
+  <img src="assets/coding-header.svg" alt="Sudarshan Patil — AI, code, and creativity" width="100%">
+  <br>
+  <img src="assets/typing-animation.svg" alt="Animated introduction: coding, learning, and building with AI" width="70%">
+</div>
 
-### B.Tech CSE (AI & Analytics) Student | Aspiring AI/ML, Generative AI & Software Development Intern
+## About Me
 
-I'm a third-year Computer Science Engineering student at **MIT ADT University** with project and academic experience in Python, machine learning, generative AI, data analysis, and web development. I'm currently seeking internship opportunities in **AI/ML, Data Analytics, Generative AI, or Software Development**.
+I'm a third-year **B.Tech Computer Science Engineering (AI & Analytics)** student at **MIT ADT University**, interested in building useful software and exploring how AI can make it smarter. I enjoy coding, learning new technologies, and turning ideas into projects.
 
 - 📍 Pune, Maharashtra, India
-- 🎓 B.Tech in Computer Science Engineering (AI & Analytics), MIT ADT University — 2024–2028
-- 📊 CGPA: 8.32
+- 🎓 MIT ADT University — 2024–2028
+- 💼 Seeking internships in **AI/ML, Data Analytics, Generative AI, or Software Development**
 - 📧 [Email me](mailto:sudarshanpatil7385@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/sudarshan-patil-561421332/)
 
@@ -58,3 +62,7 @@ Artificial Intelligence · Machine Learning · Data Structures & Algorithms · D
 - [LinkedIn](https://www.linkedin.com/in/sudarshan-patil-561421332/)
 - [GitHub](https://github.com/sudarshanpatil7385-byte)
 - [Email](mailto:sudarshanpatil7385@gmail.com)
+
+<div align="center">
+  <img src="assets/animated-footer.svg" alt="Animated code-themed footer" width="100%">
+</div>

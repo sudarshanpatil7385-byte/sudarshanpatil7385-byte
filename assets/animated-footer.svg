@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="105" viewBox="0 0 1000 105" role="img" aria-labelledby="title description">
+  <title id="title">Keep building</title>
+  <desc id="description">A softly animated gradient line and a coding-inspired sign-off.</desc>
+  <defs>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset=".5" stop-color="#818cf8"/>
+      <stop offset="1" stop-color="#e879f9"/>
+      <animate attributeName="x1" values="0;1;0" dur="7s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="1;0;1" dur="7s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+  <path d="M0 18 Q250 2 500 18 T1000 18" fill="none" stroke="url(#line)" stroke-width="3" opacity=".9"/>
+  <text x="500" y="65" text-anchor="middle" fill="#94a3b8" font-family="Consolas, monospace" font-size="16">while (curious) { keepBuilding(); }</text>
+  <circle cx="320" cy="62" r="4" fill="#67e8f9">
+    <animate attributeName="opacity" values=".25;1;.25" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="680" cy="62" r="4" fill="#c4b5fd">
+    <animate attributeName="opacity" values="1;.25;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
+</svg>

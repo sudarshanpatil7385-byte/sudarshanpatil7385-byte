@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="62" viewBox="0 0 700 62" role="img" aria-labelledby="title description">
+  <title id="title">A little about what I do</title>
+  <desc id="description">Animated phrases about coding, learning, and building with AI.</desc>
+  <rect x="1" y="1" width="698" height="60" rx="15" fill="#111827" stroke="#374151"/>
+  <text x="26" y="38" fill="#67e8f9" font-family="Consolas, monospace" font-size="16">$</text>
+  <g fill="#e2e8f0" font-family="Consolas, monospace" font-size="16">
+    <text x="52" y="38" opacity="1">I love coding and building useful things.
+      <animate attributeName="opacity" values="1;1;0;0;0" keyTimes="0;0.34;0.4;0.94;1" dur="9s" repeatCount="indefinite"/>
+    </text>
+    <text x="52" y="38" opacity="0">Exploring AI, one idea at a time.
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.34;0.4;0.72;0.78;1" dur="9s" repeatCount="indefinite"/>
+    </text>
+    <text x="52" y="38" opacity="0">Learning today. Building tomorrow.
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.72;0.78;0.94;1" dur="9s" repeatCount="indefinite"/>
+    </text>
+  </g>
+</svg>
