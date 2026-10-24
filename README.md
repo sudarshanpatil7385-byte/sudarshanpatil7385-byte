@@ -23,6 +23,14 @@ I'm a third-year **B.Tech Computer Science Engineering (AI & Analytics)** studen
 - **Tools & Development:** Streamlit, Git, GitHub, API Integration
 - **Cloud:** AWS Bedrock
 
+## Currently Learning
+
+Exploring these areas through coursework, hands-on practice, and personal projects:
+
+<div align="center">
+  <img src="assets/learning-progress.svg" alt="Animated progress indicators for learning Agentic AI, RAG, and LLMs" width="80%">
+</div>
+
 ## Projects
 
 ### AI Career Assistant *(Ongoing)*
